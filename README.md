@@ -1,37 +1,37 @@
 # General Security Blogs
-##[Slashdot Security:]
+##Slashdot Security
 
 <a href="http://slashdot.org/stories/security" target="_blank">http://slashdot.org/stories/security</a></li>
 
-##[Schneier on Security:]
+##Schneier on Security
 
 <a href="https://www.schneier.com/" target="_blank">https://www.schneier.com/</a></li>
 
-##[Boing Boing (Tag: Security)]
+##Boing Boing (Tag: Security)
 
 <a href="http://boingboing.net/tag/security" target="_blank">http://boingboing.net/tag/security</a></li>
 
-##[Boing Boing (Tag: Privacy)]
+##Boing Boing (Tag: Privacy)
 
 <a href="http://boingboing.net/tag/privacy" target="_blank">http://boingboing.net/tag/privacy</a></li>
 
-##[Risky Business]
+##Risky Business
 
 <a href="http://risky.biz/" target="_blank">http://risky.biz/<br>
 
-##[Security Ledger]
+##Security Ledger
 
 <a href="https://securityledger.com/" target="_blank">https://securityledger.com/</a></li>
 
-##[Krebs on Security]
+##Krebs on Security
 
 <a href="http://www.krebsonsecurity.com/">http://www.krebsonsecurity.com/</a></li>
 
-##[Threat Post]
+##Threat Post
 
 <a href="http://threatpost.com/" target="_blank">http://threatpost.com/</a></li>
 
-##[Motherboard]
+##Motherboard
 
 <a href="https://motherboard.vice.com/en_us">https://motherboard.vice.com/en_us</a><br>
 
